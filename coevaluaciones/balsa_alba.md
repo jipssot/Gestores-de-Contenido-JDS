@@ -56,7 +56,7 @@ Cumplimenta: Jipssot Daniel
 
 | Propuesta | Respuesta y decisión razonada | Corrección aplicada y archivo | Commit |
 | :--- | :--- | :--- | :--- |
-| **P1** | | | |
-| **P2** | | | |
+| **P1** | Mi compañera me ha dado una buena idea de poner mas ejemplos para mejoras y he estado de acuerdo. | He añadido los ejemplos que me pedía para mas claridad en cada punto | cms.md |
+| **P2** | Mi compañera se ha dado cuenta de pequeños errores de cosas incompletas y las he añadido para tener completo mi trabajo.   | He añadido lo que me pedía completando así la tabla comparativa (Jekyll,Hugo,Astro) que estaba incompleta | ssg.md |
 
 **Qué he aprendido al corregir el trabajo:** 
