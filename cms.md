@@ -10,10 +10,14 @@ Los CMS se pueden clasificar según su uso o finalidad, su tipo de licencia y su
 
  **SEGÚN SU PROPÓSITO.**
 
- - Genéricos/ Blogs/Webs corporativas. 
- - Comercio electrónico. 
- - Educación y aprendizaje. 
- - Colaborativos y Wikis. 
+ - Genéricos/ Blogs/Webs corporativas.
+    Ejemplo: WordPress y Joomla
+ - Comercio electrónico.
+    Ejemplo: Shopify y PrestaShop
+ - Educación y aprendizaje.
+    Ejemplo: Moodle y Canvas
+ - Colaborativos y Wikis.
+    Ejemplo: MediaWiki y Confluence
  -------------------------------
  ### Para saber más sobre CMS: ###
 
